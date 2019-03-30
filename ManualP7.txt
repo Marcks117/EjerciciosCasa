@@ -1,0 +1,11 @@
+Manual P7:
+
+Tecla    Función
+
+L, l	Encender/Apagar iluminación
+UP	Girar en eje X hacia arriba
+DOWN	Girar en eje X hacia abajo
+D, d	Mover camara a la derecha
+A, a	Mover camara a la izquierda
+W, w	Acercar camara
+S, s	Alejar camara
